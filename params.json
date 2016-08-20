@@ -1,0 +1,6 @@
+{
+  "name": "Hextris",
+  "tagline": "Fast paced HTML5 puzzle game inspired by Tetris!",
+  "body": "Hextris\r\n==========\r\n\r\nContributors:\r\n - Logan Engstrom (@lengstrom)\r\n - Garrett Finucane (@garrettdreyfus)\r\n - Noah Moroze (@nmoroze)\r\n - Michael Yang (@themichaelyang)\r\n\r\n#Contributions\r\nPlease submit pull requests to clay-improvements\r\n\r\n# Releases\r\n#### iOS: https://itunes.apple.com/us/app/hextris/id903769553?mt=8\r\n![](http://i.imgur.com/KBYZcf5.png)\r\n\r\n#### Android: https://play.google.com/store/apps/details?id=com.hextris.hextris\r\n![](http://i.imgur.com/mxj8yKs.png)\r\n\r\n#### Firefox OS: https://marketplace.firefox.com/app/hextris-app\r\n![](http://i.imgur.com/RhECXPg.png)\r\n\r\n## Press kit\r\n\r\nhttp://hextris.github.io/presskit/info.html\r\n\r\n## License\r\n\r\nThis work is under a GPL v3 license.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
